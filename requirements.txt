@@ -3,7 +3,6 @@ streamlit
 transformers==4.31.0
 torch==2.0.1
 einops==0.6.1
-bitsandbytes==0.41.1
 accelerate==0.21.0
 pdfminer.six==20221105
 bs4==0.0.1
